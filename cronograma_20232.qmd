@@ -40,8 +40,18 @@ Dia| Entrega
 
 
 ### Entrega 1
-#### Introdução
-      
+#### Introdução.  
+Apresentação do tema.   
+- **QUAL** o grande tema do seu trabalho? (duas páginas)
+
+Pergunta-problema.   
+- **O QUE** você quer responder com este trabalho? (meia página)
+
+Justificativa/relevância    
+- **POR QUE** este trabalho é importante? (uma página)
+
+Objetivos geral e específico    
+- **O QUE** você vai fazer para responder a pergunta-problema? **QUAIS** são as contribuições intermediárias do seu trabalho?(uma página)      
 
 ### Entrega 2
 #### Revisão da literatura
