@@ -8,6 +8,7 @@ title: "Orientandos"
 Temas para revisão da literatura:    
       - Logística urbana.  
       - Localização de armazéns.  
+      - Espraiamento logístico
 
 ### Túlio
 [Documento](https://docs.google.com/document/d/1fnB2EVmtbQIXVefr27ieK1cxPH_qkzVAm0cpuDIw6A0/edit)
@@ -15,6 +16,7 @@ Temas para revisão da literatura:
 Temas para revisão da literatura:    
       - Logística urbana.  
       - Localização de armazéns.  
+      - Espraiamento logístico
 
 ### Livia
 [Documento](https://docs.google.com/document/d/1q4-ODQAp9UmHDrEye2UAELj_llCU7QB5yX3kfMAkGs4/edit)
@@ -22,6 +24,8 @@ Temas para revisão da literatura:
 Temas para revisão da literatura:    
       - Logística urbana.  
       - Localização de armazéns.  
+      - Espraiamento logístico
+
 
 ### Marden
 [Documento](https://docs.google.com/document/d/1MiVYMTDrU5rbzOpj-Ylu-52nC3PsPCCrxIoDg7zRfLo/edit)

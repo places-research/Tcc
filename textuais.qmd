@@ -82,6 +82,7 @@ Você **`nunca`** vai conseguir encontrar **`TODAS`** as publicações que exist
 ### `Revisão textual`
 - [Grammarly](https://www.grammarly.com/)
 - [LanguageTool](https://languagetool.org/pt-BR/wordpress?utm_source=google&utm_medium=cpc&utm_campaign=&utm_content=&utm_term=&gclid=CjwKCAjwivemBhBhEiwAJxNWN8WgXmP2-UMF9JBeOGTChhsYxndJtVnqmKsAbw3pBYU8-SoFaTZ3fxoCe_YQAvD_BwE)
+
 :::
 ::::
 
