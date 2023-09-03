@@ -1,0 +1,77 @@
+---
+title: "Cronogramas"
+---
+
+## Cronograma de Entregas - 2023/2
+
+Dia| Evento
+----|------
+03/ago |Encontro Presencial: orientações e esclarecimentos
+31/ago |Data Limite: envio da Carta de Aceite
+21/set |Data Limite: envio do 1o Relatório de Acompanhamento
+19/out |Data Limite: envio do 2o Relatório de Acompanhamento
+15/nov |Data Limite: envio do pedido de marcação das Bancas de TCC
+19/nov |Data Limite: envio dos TCCs*
+20/nov-11/dez | Realização das Bancas de TCC
+18/dez |Data Limite: envio da Versão Final de TCC II
+
+## Cronograma de trabalho - 2023/2
+
+Dia| Entrega
+----|------
+11/set |Entrega 1
+18/set |Entrega 2
+21/set |Data Limite: envio do 1o Relatório de Acompanhamento
+25/set |Entrega 3
+28/set |Reunião de acompanhamento
+02/out |Entrega 4
+16/out |Entrega 5
+19/out |Data Limite: envio do 2o Relatório de Acompanhamento
+23/out |Entrega 6
+26/out |Reunião de acompanhamento
+30/out |Entrega 7
+06/nov |Entrega 8
+09/nov |Reunião de fechamento
+15/nov |Entrega final
+15/nov |Data Limite: envio do pedido de marcação das Bancas de TCC
+19/nov |Data Limite: envio dos TCCs*
+20/nov-11/dez | Realização das Bancas de TCC
+18/dez |Data Limite: envio da Versão Final de TCC II
+
+
+### Entrega 1
+#### Introdução
+      
+
+### Entrega 2
+#### Revisão da literatura
+- Definições gerais (cinco páginas)
+
+### Entrega 3
+#### Revisão da literatura
+- Contexto do problema no Brasil e no mundo (três páginas)
+
+### Entrega 4
+#### Revisão da literatura
+- Amarração das definições gerais com os objetivos do trabalho (duas página)
+
+### Entrega 5
+#### Proposta metodológica
+- Descrever os dados e criar um dicionário de variáveis
+
+### Entrega 6
+#### Proposta metodológica
+- **COMO** você vai explorar os objetivos e responder a pergunta problema?
+- Elaborar o fluxograma do método proposto
+
+### Entrega 7
+#### Proposta metodológica
+- **COMO** você vai explorar os objetivos e responder a pergunta problema?
+- Descrição do método
+
+### Entrega 8
+#### Cronograma
+#### Revisão da introdução
+
+### Entrega final
+#### Documento concluído
